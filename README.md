@@ -1,5 +1,7 @@
 # Article TOC Navigator
 
+![Extension Example](example.png)
+
 A premium, modern Chrome extension that automatically generates a beautifully styled Table of Contents sidebar for any long-form article, blog, or documentation page.
 
 ## Features
