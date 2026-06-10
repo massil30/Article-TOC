@@ -1,8 +1,9 @@
 # Article TOC Navigator
 
-<img width="1895" height="902" alt="image" src="https://github.com/user-attachments/assets/bdc7a621-dd7e-4046-a55e-1d3dfc9ad7d1" />
 
 A premium, modern Chrome extension that automatically generates a beautifully styled Table of Contents sidebar for any long-form article, blog, or documentation page.
+
+<img width="1895" height="902" alt="image" src="https://github.com/user-attachments/assets/bdc7a621-dd7e-4046-a55e-1d3dfc9ad7d1" />
 
 ## Features
 
